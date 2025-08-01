@@ -1,8 +1,0 @@
-linkspeed             value:GAUGE:0:U
-newconnections        value:COUNTER:0:U
-currentconnections    value:GAUGE:0:U
-events                value:COUNTER:0:U
-vip                   requests:COUNTER:0:U, sessions:GAUGE:0:U, server_conns:GAUGE:0:U, rx_bytes:COUNTER:0:U, tx_bytes:COUNTER:0:U, server_count:GAUGE:0:U, up_count:GAUGE:0:U
-tmm_mem               used:GAUGE:0:U, total:GAUGE:0:U
-cpu_detailed          user:COUNTER:0:U, nice:COUNTER:0:U, system:COUNTER:0:U, idle:COUNTER:0:U, interrupt:COUNTER:0:U, softirq:COUNTER:0:U, wait:COUNTER:0:U
-
